@@ -1,0 +1,11 @@
+feature_n.pkl为训练集消极评论特征提取后256维向量
+
+feature_p.pkl为训练集积极评论特征提取后256维向量
+
+labels.pkl为测试集标签
+
+my_tokenizer.json为分词器
+
+sentences_feature.pkl为测试集特征
+
+train.ipynb为特征提取及BILTIM模型训练测试代码
